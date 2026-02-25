@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center">This is mainly for the safe server.</p>
+<p align="center">This is for the safe server.</p>
 
 
 <p align="center">˗ˏˋ ꒰ interact with caution / IWC ꒱ ˎˊ˗</p>
